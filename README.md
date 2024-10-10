@@ -3,7 +3,7 @@
 <img align="left" alt="developer" width="400" src="https://www.pinterest.com/pin/680395456178825281/"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Travelholic**
+- 🔭 I’m currently working as **Junior software engineer**
 
 - 🌱 I’m currently learning **ReactJs, Nodejs&express**
 
